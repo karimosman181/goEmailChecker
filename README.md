@@ -1,2 +1,3 @@
 # goEmailChecker
-Email Verifier Tool With Golang
+
+simple api for Email Verifier Tool With Golang
